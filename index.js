@@ -53,4 +53,4 @@ function generateNewNumber(maxNumber) {
     }
 
 }
-console.log(newNumber());
+console.log(newNumber()); 
